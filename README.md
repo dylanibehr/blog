@@ -1,14 +1,12 @@
-# Welcome to My Simple Webpage
+# Dylan's Blog
 
-This is a basic example of a webpage written in Markdown. Markdown is a lightweight markup language that is easy to read and write.
+This is going to be my photo blog written in Markdown
 
 ## Section 1: Getting Started
 
-To get started with your own webpage, follow these steps:
-
-1. Create a new folder for your project.
-2. Write your content in Markdown.
-3. Optionally, use a static site generator for more features.
+1. Check out all the cool things I can do.
+2. Isn't it awesome.
+3. Markdown is so fun. 
 
 ## Section 2: Markdown Basics
 
