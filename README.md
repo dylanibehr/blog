@@ -6,8 +6,9 @@ This is going to be my photo blog written in Markdown
 
 1. Check out all the cool things I can do.
 2. Isn't it awesome.
-3. Markdown is so fun. 
+3. Markdown is so fun.
+4. Lynnea is stinky!
 
-## Section 2: Markdown Basics
+## Section 2: So So Stinky 
 
-Here are some basic Markdown elements:
+How can you be so stinky all the time?
