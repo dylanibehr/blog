@@ -1,8 +1,3 @@
----
-title: My Simple Webpage
-date: 2024-01-15
----
-
 # Welcome to My Simple Webpage
 
 This is a basic example of a webpage written in Markdown. Markdown is a lightweight markup language that is easy to read and write.
@@ -18,12 +13,3 @@ To get started with your own webpage, follow these steps:
 ## Section 2: Markdown Basics
 
 Here are some basic Markdown elements:
-
-- **Headers:**
-  ```markdown
-  # Heading 1
-  ## Heading 2
-  ### Heading 3
-
-
-# Dylan's Blog 
