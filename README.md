@@ -9,6 +9,8 @@ This is going to be my photo blog written in Markdown
 3. Markdown is so fun.
 4. Lynnea is stinky!
 
+![cool photo](DSC09984.jpg)
+
 ## Section 2: So So Stinky 
 
 How can you be so stinky all the time?
