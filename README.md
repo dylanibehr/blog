@@ -14,3 +14,7 @@ This is going to be my photo blog written in Markdown
 ## Section 2: So So Stinky 
 
 How can you be so stinky all the time?
+
+This is a test. Woo Hoo!
+
+This is another test. Will it work?
